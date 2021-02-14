@@ -1,23 +1,27 @@
 ## QuizMeApp ~ Final project of the intensive bootcamp "soyHenry"
 
-#### Introduction:
+## 🤔 What is it?
 
-```
-QuizzMeApp is a group project with SCRUM methodology, it consists of a question and answer application which allows you to create your own quizzes, it allows you to play the quizzes of other users. It has rankings of best scores, membership which allows you to play without limits and create quizzes without limits. Likewise, it allows user validation so that any company or person can create their quizzes and people can know that they really created them. The application has animations, music composed by a member of the team especially for the application, push notifications, payment methods, third-party authentication, and more ...
-```
+QuizzMeApp is a group project with SCRUM methodology,
+it consists of a question and answer application which
+allows you to create your own quizzes, it allows you to
+play the quizzes of other users. It has rankings of best scores,
+membership which allows you to play without limits and create
+quizzes without limits. Likewise, it allows user validation so
+that any company or person can create their quizzes and people
+can know that they really created them. The application has animations,
+music composed by a member of the team especially for the application,
+push notifications, payment methods, third-party authentication, and more ...
 
-#### Team:
+## 💻 Can I see it live?
 
--   **Franco Fiori**
--   **Ignacio Contreras**
--   **Franco Ortiz**
--   **Martin Sanchez**
--   **Emiliano Alfonso**
--   **Ailin Nakaganeku**
--   **Santiago Calisaya**
--   **Bruno Gallardo**
+Of course! You can download the app from the "Huawei App Gallery".
 
-#### Used technology:
+> https://appgallery.huawei.com/#/app/C103845919
+
+## 🧱 What was your stack of technologies?
+
+These are the technologies we used to create the full project:
 
 -   **React Native**
 -   **Redux**
@@ -31,7 +35,22 @@ QuizzMeApp is a group project with SCRUM methodology, it consists of a question 
 -   **Firebase**
 -   **SCRUM**
 
-#### Instructions:
+## 💬 What's your contact info?
+
+You can reach out to me via e-mail: ortiz.franco@yandex.com\
+Or send me a message on LinkedIn: https://www.linkedin.com/in/franco-david-ortiz/
+
+You can also find the other members of the project here:
+
+-   <a href="https://portfolio-franco-fiori.vercel.app/">Franco Fiori</a>
+-   <a href="https://github.com/Aglowkeys">Emiliano Alfonso</a>
+-   <a href="https://nc-devw.github.io/portfolio/">Ignacio Contreras</a>
+-   <a href="https://github.com/tinsanchez00/">Martín Sánchez</a>
+-   <a href="https://github.com/ailinnakaganeku/">Ailin Nakaganeku</a>
+-   <a href="https://github.com/ttiago7/">Santiago Calisaya</a>
+-   <a href="https://github.com/gallardobruno/">Bruno Gallardo</a>
+
+# ⚡ Instructions:
 
 -   `Clone the repository`
 -   `Run npm install in /api and /client`
@@ -69,7 +88,3 @@ QuizzMeApp is a group project with SCRUM methodology, it consists of a question 
 -   `Run npm start in /api`
 -   `Run npm start in /client`
 -   `In Expo console scan the QR code with your mobile`
-
-#### Apk Download:
-
--   _Link to the apk soon..._
