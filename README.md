@@ -55,7 +55,7 @@ You can also find the other members of the project here:
 -   `Clone the repository`
 -   `Run npm install in /api and /client`
 -   `Run mongoDB service`
--   `Create .env file in /pi directory and put this inside:`
+-   `Create .env file in /api directory and put this inside:`
 
 ```json
 	DB_NAME=quiz
