@@ -47,8 +47,6 @@ You can also find the other members of the project here:
 -   <a href="https://nc-devw.github.io/portfolio/">Ignacio Contreras</a>
 -   <a href="https://github.com/tinsanchez00/">Martín Sánchez</a>
 -   <a href="https://github.com/ailinnakaganeku/">Ailin Nakaganeku</a>
--   <a href="https://github.com/ttiago7/">Santiago Calisaya</a>
--   <a href="https://github.com/gallardobruno/">Bruno Gallardo</a>
 
 # ⚡ Instructions:
 
